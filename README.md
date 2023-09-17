@@ -1,10 +1,10 @@
 # MovieBox - Movie Discovery Web Application
 
-MovieBox is a movie discovery web application that allows users to search for movies, view detailed information about them, and save their favorite movies. The application leverages the TMDB API to fetch movie data and offers a user-friendly interface for exploring movies.
+MovieBox is a movie discovery web application that allows users to search for movies, view detailed information about them, and save their favourite movies. The application leverages the TMDB API to fetch movie data and offers a user-friendly interface for exploring movies.
 
 ## Objective
 
-Create a responsive and visually appealing movie discovery platform with the following features:
+ A responsive and visually appealing movie discovery platform with the following features:
 
 ### User Interface
 
@@ -25,6 +25,9 @@ Create a responsive and visually appealing movie discovery platform with the fol
 
 - Implemented robust error handling to provide users with meaningful error messages in case of API failures or other issues.
 
+## CLICK HERE TO VIEW WEBSITE
+-https://movie-app-273e2.firebaseapp.com/
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -41,8 +44,8 @@ To run this project locally, follow these steps:
     npm start
 
 ## Technologies Used
-  React
-  TMDB API
+  -React
+  -TMDB API
  
 
 
